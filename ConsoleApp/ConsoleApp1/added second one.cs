@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class AddedAnotherclass
+    class added_second_one
     {
-        // test added
     }
 }
