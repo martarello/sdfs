@@ -8,7 +8,5 @@ namespace ConsoleApp1
 {
     class AddedAnotherclass
     {
-        // test added
-        //added atnoehr comment
     }
 }
