@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    class AddedAnotherclass
     {
-        static void Main(string[] args)
-        {
-            Console.Write("sdfs");
-        }
     }
 }
